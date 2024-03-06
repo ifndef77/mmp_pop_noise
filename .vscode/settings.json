@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ch32v00x.h": "c",
+        "ch32v00x_conf.h": "c",
+        "ch32v00x_rcc.h": "c",
+        "debug.h": "c"
+    }
+}
